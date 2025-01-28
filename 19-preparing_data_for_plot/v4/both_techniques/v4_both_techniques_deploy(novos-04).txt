@@ -1,0 +1,2 @@
+date|total_ases|aspp_and_moreSpecific|just_aspp|just_moreSpecific
+20230615|73971|8605|14414|11940
